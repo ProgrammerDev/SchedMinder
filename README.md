@@ -1,0 +1,2 @@
+# SchedMinder
+It's TodoListApp
